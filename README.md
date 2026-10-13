@@ -1,6 +1,6 @@
 👋 Hey, I'm Yogesh M P!
 
-🚀 Aspiring AI Engineer | Full-Stack Developer | Cybersecurity Enthusiast
+🚀 Aspiring AI Engineer | Full-Stack Developer 
 
 <p align="center">
   <img src="assets/aizen-banner.png" width="100%" alt="Yogesh M P - AI Engineer Banner">
