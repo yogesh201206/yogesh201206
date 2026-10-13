@@ -102,7 +102,6 @@ Tech Stack: Python · Rich · Requests · OmniRoute · Linux · WSL
 - [x] Build real-world full-stack projects.
 - [x] Explore AI-powered application development.
 - [x] Start building an AI DevOps Agent.
-- [ ] Strengthen Java and Spring Boot skills.
 - [ ] Improve Data Structures and Algorithms.
 - [ ] Learn React in greater depth.
 - [ ] Explore advanced AI agents and LLM integrations.
